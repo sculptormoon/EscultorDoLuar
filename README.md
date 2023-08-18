@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/milvolts)
 [![Discord](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbeenites/)
 
-![Benites's GitHub stats](https://github-readme-stats.vercel.app/api?username=escultordoluar&show_icons=true&theme=radical)
+![Benites's GitHub stats](https://github-readme-stats.vercel.app/api?username=EscultorDoLuar&show_icons=true&theme=radical))
 
 
 ### Technology
