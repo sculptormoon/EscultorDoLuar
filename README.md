@@ -22,4 +22,3 @@
 </div><br/>
 
 Amante de Informação. Curioso em saber como tudo funciona.
-Objetivo em transmitir e criar a maior rede de acesso a informação do Mundo, para proporcionar um mundo melhor a todos.
